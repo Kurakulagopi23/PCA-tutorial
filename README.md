@@ -1,4 +1,3 @@
-# PCA-tutorial
 # PCA Tutorial: Principal Component Analysis for Dimensionality Reduction
 
 This repository contains a tutorial on Principal Component Analysis (PCA), a technique used for dimensionality reduction in machine learning. The tutorial demonstrates how to apply PCA to a dataset, visualise the results, and analyse the impact of varying the number of components on model performance.
